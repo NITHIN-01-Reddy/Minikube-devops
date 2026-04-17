@@ -23,7 +23,7 @@ In this project, a local Kubernetes cluster was created using Minikube. An NGINX
 ## 📁 Project Structure
 
 ```
-k8s-task/
+MiniKube-project/
 │
 ├── deployment.yaml
 ├── service.yaml
